@@ -6,7 +6,7 @@ This project was part of the [Blockchain for Social Impact Hackathon](https://ww
 
 ## Presentations
 
-- [BSIC Hackathon slide deck](https://github.com/josl/Bramble/blob/master/Bramble.pdf)
+- [BSIC Hackathon slide deck](https://docs.google.com/presentation/d/1z9Os_uwjz1XsZmL3gLsggm6EmYvISKI69vGxIWBOk0A/edit?usp=sharing)
 - [Public Health Surveillance using Blockchain](https://github.com/josl/Bramble/blob/master/HealthTech.pdf) presented at the Copenhagen Health Techers [meetup](https://www.meetup.com/Copenhagen-Health-Techers/events/243082835/)
 
 
