@@ -2,6 +2,13 @@
 
 A Blockchain Network for Public Health Interoperability and Real-Time Data Sharing.
 
+This project was part of the [Blockchain for Social Impact Hackathon](https://www.blockchainforsocialimpact.com/hackathon/) developed between September 7th, 2017 and October 7th, 2017.
+
+## Presentations
+
+- [BSIC Hackathon slide deck](https://github.com/josl/Bramble/blob/master/Bramble.pdf)
+- [Public Health Surveillance using Blockchain](https://github.com/josl/Bramble/blob/master/HealthTech.pdf) presented at the Copenhagen Health Techers [meetup](https://www.meetup.com/Copenhagen-Health-Techers/events/243082835/)
+
 
 ## Challenge
 
@@ -24,7 +31,7 @@ Our approach is to create a decentralised solution that relies on three technolo
 We will create a network of Blockchains using the Cosmos network where our Bramble Hub will provide the basis for managing the different users and to keep a global state across all Blockchains. The Hub will manage how data sharing of biological assets is guaranteed, provide the infrastructure to be connected to other zones (Ethereum, private chains…) and implements governance mechanism to coordinate all participants of the network
 A Network of private/public Blockchains (vis Cosmos)
 
-![Bramble Network](overview.png?raw=true "Bramble Network")
+![Bramble Network](overview.jpeg?raw=true "Bramble Network")
 
 Private Blockchains will exist (restricted set of validators (i.e. full nodes), privacy...). Healthcare can be considered an oligopoly of oligopolies: Pharma oligopoly, national public-health systems, insurance, health researchers. Some of them keep siloed data private and others contribute to a common body of public knowledge. 
 
