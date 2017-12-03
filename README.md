@@ -28,6 +28,9 @@ Our approach is to create a decentralised solution that relies on three technolo
 - Smart Contracts that leave both on a Public and Private Blockchain for manage permissions
 - A set of bridges that will connect to and from the public and private Blockchains that want to collaborate and participate in the exchange of information.
 
+![Data Upload](data.jpeg?raw=true "Data Upload")
+
+
 We will create a network of Blockchains using the Cosmos network where our Bramble Hub will provide the basis for managing the different users and to keep a global state across all Blockchains. The Hub will manage how data sharing of biological assets is guaranteed, provide the infrastructure to be connected to other zones (Ethereum, private chains…) and implements governance mechanism to coordinate all participants of the network
 A Network of private/public Blockchains (vis Cosmos)
 
