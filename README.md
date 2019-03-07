@@ -6,7 +6,7 @@ This project was part of the [Blockchain for Social Impact Hackathon](https://ww
 
 ## Publication
 
-Part of this project was used in a scietific article published by the joournal Blockchain in Healthcare today:
+Part of this project was used in a scietific article published by the joournal [Blockchain in Healthcare Today](https://blockchainhealthcaretoday.com/index.php/journal):
 
 - [Public Health Surveillance using Decentralized Technologies](https://blockchainhealthcaretoday.com/index.php/journal/article/view/17)
   - Jose Luis Bellod Cisneros, Fran Aarestrup and Ole Lund
@@ -59,58 +59,3 @@ The question is, how do se establish a protocol for data sharing that ensures pr
 References
 https://cosmos.network/whitepaper
 
-
-### Prerequisites
-
-- [NodeJS](https://nodejs.org/en/)
-- [testrpc](https://github.com/ethereumjs/testrpc)
-- [Truffle](http://truffleframework.com/)
-- [IPFS](https://ipfs.io/)
-
-### Installing
-
-Node dependencies
-```sh
-npm install
-```
-
-TestRPC needs to be running before migration.
-```sh
-testrpc
-```
-
-Compilation and migration. This deploys the contracts on the blockchain. 
-
-```sh
-truffle compile && truffle migrate --reset
-```
-Init scripts links contracts to the manager: 
-```sh
-truffle exec scripts/init.js
-```
-
-The React WebUI can be accessed on http://localhost:3000/ with the command
-```sh
-npm start run
-```
-
-IPFS should be running:
-```sh
-ipfs daemon
-```
-
-### Development
-
-The folder "contracts" has a set of smart contracts implemented in Solidity. The pattern followed from creating the contracts is based on the DOUG model as described in [Monax's Solidity documentation site](https://monax.io/docs/solidity/solidity_1_the_five_types_model/). These contracts are tested on the TestRPC network but can easily be deployed on the Public Ethereum Network. Hyperledger Burrow (created by Monax) is a permissioned chained implemented on top of the Ethereum Virtual Machine (EVM) which also support Solidity contracts. The next step would be testing these contracts on Monax's permissioned blockchain.
-
-### Examples
-TODO
-
-## Running the tests
-
-TODO
-
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning.
