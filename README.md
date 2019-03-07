@@ -4,6 +4,13 @@ A Blockchain Network for Public Health Interoperability and Real-Time Data Shari
 
 This project was part of the [Blockchain for Social Impact Hackathon](https://www.blockchainforsocialimpact.com/hackathon/) developed between September 7th, 2017 and October 7th, 2017.
 
+## Publication
+
+Part of this project was used in a scietific article published by the joournal Blockchain in Healthcare today:
+
+- [Public Health Surveillance using Decentralized Technologies](https://blockchainhealthcaretoday.com/index.php/journal/article/view/17)
+  - Jose Luis Bellod Cisneros, Fran Aarestrup and Ole Lund
+
 ## Presentations
 
 - [BSIC Hackathon slide deck](https://docs.google.com/presentation/d/1z9Os_uwjz1XsZmL3gLsggm6EmYvISKI69vGxIWBOk0A/edit?usp=sharing)
