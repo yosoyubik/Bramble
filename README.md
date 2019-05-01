@@ -6,7 +6,7 @@ This project was part of the [Blockchain for Social Impact Hackathon](https://ww
 
 ## Publication
 
-Part of this project was used in a scietific article published by the joournal [Blockchain in Healthcare Today](https://blockchainhealthcaretoday.com/index.php/journal):
+Part of this project was used in a scietific article published by the journal [Blockchain in Healthcare Today](https://blockchainhealthcaretoday.com/index.php/journal):
 
 - [Public Health Surveillance using Decentralized Technologies](https://blockchainhealthcaretoday.com/index.php/journal/article/view/17)
   - Jose Luis Bellod Cisneros, Fran Aarestrup and Ole Lund
